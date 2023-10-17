@@ -1,0 +1,37 @@
+export const MenuItemsMenadzer=[
+    {
+        title:'NASLOVNA',
+        url:'Pocetna',
+        cName:'nav-links'
+    },
+    {
+        title:'USLUGE',
+        url:'Usluge',
+        cName:'nav-links'
+    },
+    {
+        title:'ZAPOSLENI',
+        url:'Zaposleni',
+        cName:'nav-links'
+    },
+    {
+        title:'KONTAKT',
+        url:'Kontakt',
+        cName:'nav-links'
+    },
+    {
+        title:'UPRAVLJANJE',
+        url:'MenadzerRadnici',
+        cName:'nav-links'
+    },
+    {
+        title:'DOPRINOSI',
+        url:'MenadzerDoprinos',
+        cName:'nav-links'
+    },
+    {
+        title:'STATISTIKA',
+        url:'MenadzerStatistika',
+        cName:'nav-links'
+    }
+]

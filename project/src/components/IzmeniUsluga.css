@@ -1,0 +1,465 @@
+.izmeni_usluga_strana{
+    display: flex;
+    flex-direction: column;
+    width:80%;
+    margin:auto;
+    margin-top:50px;
+}
+
+.izmeni_usluga_zaglavlje{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.slikaUsluga_div{
+    min-width: 200px;
+    max-width: 40%;
+    display:flex;
+    flex-grow: 1;
+    flex-shrink: 1;
+    margin-top:40px;
+    margin-bottom: 5px;
+    
+}
+
+.slikaUsluga{
+    width:100%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px rgb(212, 210, 210);
+}
+
+.izmeni_usluga_inputPoljaTipUsluge{
+    min-width: 300px;
+    max-width: 40%;
+    display: flex;
+    flex-direction: column;
+    background-color: #e0b191;
+    border-radius: 10px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    margin-top:40px;
+    margin-bottom: 5px;
+    color:#8f4a4a;
+    margin-right: 25px;
+    padding:10px;
+    box-shadow: 3px 3px 7px rgb(212, 210, 210);
+    
+}
+
+.prUsluga{
+    border-radius: 10px;
+    margin-top: 70px;
+    width: 18%;
+    min-width: 150px;
+    min-height: 80px;
+    padding: 10px 10px;
+    color: #fff;
+    background-color:#8f4a4a;
+    border: none;
+    font-size:x-large;
+    display:flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    margin-left:117px;
+}
+
+.pregledUsluga_zaglavlje{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    min-width: 60%;
+    width:70%;
+    border: none;
+    margin: auto;
+    align-items: flex-start;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #dfcbcb;
+}
+
+.prikazPregledaUsluga
+{
+   display:flex;
+   flex-direction:column;
+   margin:auto;
+   width:70%;
+}
+
+@media only screen and (max-width:760px)
+{
+    .prUsluga{
+        align-self: center;
+    }
+    .dodajUslugu{
+        align-self: center;
+    }
+}
+.prUsluga:hover{
+    color:#8f4a4a;
+    background-color: #e2b9b9;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+
+}
+.dugmeomotac{
+    display: flex;
+    justify-content: center;
+}
+.izmeni_usluga_dodajUslugu{
+    width: 40%;
+    align-self: center;
+    min-height: 40px;
+    margin-top: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background: linear-gradient(90deg, #daa583 0%, #aa6464 200%);
+    font-size: larger;
+
+}
+
+.izmeni_usluga_dodajUslugu:hover{
+    cursor: pointer;
+}
+
+.dodajUslugu{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    width: 15%;
+    min-width: 150px;
+    min-height: 70px;
+    color: #fff;
+    background-color:#8f4a4a;
+    border: none;
+    font-size:x-large;
+    margin-left:auto;
+    margin-top:20px;
+
+}
+
+.dodajUslugu:hover{
+
+    color:#8f4a4a;
+    background-color: #e2b9b9;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+
+}
+
+.izmeni_usluga_labelaFormaTipUsluge1, .izmeni_usluga_labelaFormaTipUsluge2, .izmeni_usluga_labelaFormaTipUsluge3{
+    font-size: 25px;
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.opis_izmene{
+    font-size: 15px;
+    width: 90%;
+    min-height: 200px;
+    align-self: center;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    resize: none;
+    padding:5px;
+    font-size: large;
+
+}
+.izmeni_uslugu{
+    display: flex;
+    font-size: 20px;
+    width: 30%;
+    align-self: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    justify-content: center;
+    padding-top: 5px;
+    border-radius: 5px;
+    border: none;
+    background-color:#8f4a4a;
+    color: white;
+    min-height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.izmeni_uslugu:hover{
+    cursor: pointer;
+    background-color:white;
+    color:black;
+}
+.obrisi_usluga_admin_modal, .obrisi_usluga_admin_overlay{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 3;
+}
+.obrisi_usluga_admin_overlay{
+    background: rgba(49,49,49,0.4);
+}
+
+.obrisi_usluga_admin_modal-content{
+    min-height: 200px;
+    min-width: 350px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: absolute;
+    font-size:medium;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    background: #ac6767 ;
+    padding: 14px 28px;
+    max-width: 600px;
+    min-width: 300px;
+    z-index: 4;
+    font-size: large;
+}
+
+.obrisi_usluga_admin_dugmici{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.oua-dugme{
+    width: 150px;
+    height: 40px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: none;
+}
+.oua-dugme:hover{
+    color : #ac6767 ;
+    background-color:#F9E5C7 ;
+    cursor: pointer;
+}
+
+.labelaFormaTipUsluge1, .labelaFormaTipUsluge2, .labelaFormaTipUsluge3{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.labelaFormaTipUsluge1{
+    margin-top: 10px;
+}
+
+
+
+.izmeniTip_dodajUslugu_modal, .izmeniTip_dodajUslugu_overlay1{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 3;
+}
+.izmeniTip_dodajUslugu_overlay1{
+    background: rgba(49,49,49,0.8);
+}
+.izmeniTip_dodajUslugu_modal-content{
+   
+    width: 30%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: absolute;
+    font-size:medium;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    line-height: 1.4;
+    background: #ac6767 ;
+    padding: 28px 28px 28px 28px;
+    max-width: 500px;
+    z-index: 4;
+    font-size: x-large;
+    color:white
+}
+
+.izmeni_modal, .izmeni_overlay1{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 3;
+}
+.izmeni_overlay1{
+    background: rgba(49,49,49,0.4);
+}
+
+.izmeni_modal-content{
+    min-height: 250px;
+    min-width: 350px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    font-size:medium;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 1.4;
+    background: #ac6767 ;
+    padding: 14px 28px;
+    max-width: 600px;
+    min-width: 300px;
+    z-index: 4;
+    font-size: large;
+}
+
+.izmeni_modal-content-podaci{
+    display: flex;
+    flex-direction: column;
+}
+
+.izmeni_usluga_lista{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.div_info{
+    display: flex;
+    flex-direction: row;flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+.divDugimici{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+.izmeni_usluga_usluge{
+    min-height: 60px;
+    width: 47%;
+    min-width: 300px;
+    background-color: #ac6767;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: #fff;
+    border-radius: 10px;
+    margin-top: 50px;
+    box-shadow: 2px 3px 7px #b4aeae;
+}
+
+.usluga_naziv{
+    font-size:20px;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: x-large;
+    
+}
+
+.usluga_cena{
+    display: inline-block;
+    float: right;
+    position: relative;
+    margin-top: 15px;
+    margin-right:15px;
+    font-size: x-large;
+}
+
+.ObrisiUslugu{
+    display: inline-block;
+    border-radius: 4px;
+    width: 25%;
+    height: 40px;
+    position: relative;
+    color: #fff;
+    background:linear-gradient(90deg, #f1d1bb 0%, #ecc7c7 200%);
+    color:#8f4a4a;
+    border: 0cm;
+    font-size: large;
+   
+}
+.ObrisiUslugu:hover{
+    width: 27%;
+    height: 40px;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+
+}
+.IzmeniUslugu{
+    display: inline-block;
+    border-radius: 4px;
+    width: 25%;
+    height: 40px;
+    position: relative;
+    color:#8f4a4a;
+    border: 0cm;
+    font-size: large;
+    background:linear-gradient(90deg, #f1d1bb 0%, #ecc7c7 200%);
+
+    
+}
+.IzmeniUslugu:hover{
+    width: 27%;
+    height: 40px;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+
+}
+
+.lblNazivUslugee
+{
+    color:white;
+    font-size: x-large;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left:10%;
+}
+
+.lblUslugaCenaa
+{
+    color:white;
+    font-size: x-large;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left:10%;
+}
+
+.inputTekstCena
+{
+    margin-left:20px;
+    width:50%;
+    height:30px;
+    padding-left: 4px;
+    border-radius: 4px;
+    font-size: large;
+}
+

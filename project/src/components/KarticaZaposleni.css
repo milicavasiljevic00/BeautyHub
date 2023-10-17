@@ -1,0 +1,93 @@
+
+.zaposleni_kartica_detalji_modal, .zaposleni_kartica_detalji_overlay{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 3;
+}
+
+.zaposleni_kartica_detalji_overlay{
+    background: rgba(49,49,49,0.4);
+}
+
+.div_zvezdice-zaposleni {
+    align-self: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pregledRecenzijaZaposleni
+{
+    background-color: rgb(202, 130, 130);
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    border-radius: 7px;
+    margin-top: 7px;
+}
+
+.zaposleni_kartica_detalji_modal-content{
+    min-height: auto;
+    min-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    font-size:larger;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    line-height: 1.4;
+    background: #ac6767;
+    color: white;
+    padding: 24px 48px;
+    max-width: 700px;
+    z-index: 4;
+}
+
+.redime{
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.komentari{
+    resize: none;
+    color: black;
+    font-size: medium;
+}
+.red{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ime{
+    font-size: 30px;
+}
+.komentar{
+    border-top: 1px solid white;
+    width : 100%;
+    display: flex;
+    flex-direction: column;
+   
+}
+.komentar_prosiren{
+    border-top: 1px solid white;
+    width : auto;
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.NemaRecenzije{
+    margin-top: 2%;
+    width:100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,100 @@
+.korisnik_termini_zaglavlje{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    min-width: 60%;
+    width:75%;
+    border: none;
+    margin: auto;
+    align-items: flex-start;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #dfcbcb;
+}
+
+.mojiTerminiNaslovv{
+    display:flex;
+    margin:0;
+    text-align: left;
+    font-weight: 600;
+    align-self: flex-start;
+    margin-left: -20px;
+    margin-bottom: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-size:xxx-large;
+    color:#8f4a4a;
+}
+
+.biranjeTerminaDiv{
+    display:flex;
+    margin:0;
+    align-items: left;
+    font-weight: 600;
+}
+
+.biranje_opcije{
+    min-height: 35px;
+    border-radius: 5px;
+    outline: none;
+    width:200px;
+    font-size: large;
+    border: 1px solid #dac1c1;
+    color:#aa7a7a;
+}
+
+.lblFilter{
+    align-self: center;
+    margin-right: 15px;
+    font-size: large;
+    font-weight: 600;
+    color: #8d5050;
+}
+
+.lblDatum{
+    margin-left:40px;
+    align-self: center;
+    margin-right: 15px;
+    font-size: large;
+    font-weight: 600;
+    color: #8d5050;
+}
+
+.datum{
+    height: 35px;
+    border-radius: 5px;
+    outline: none;
+    width:200px;
+    font-size: large;
+    border: 1px solid #dac1c1;
+    color:#aa7a7a;
+}
+
+.datePickerTermini{
+    height:fit-content;
+    border: none;
+    outline: none;
+    text-align: center;
+    font-size: large;
+    padding-top: 5px;
+    color: #aa7a7a;
+}
+
+.divTermin{
+    display:flex;
+    flex-direction: row;
+    margin:0;
+    text-align: left;
+    font-weight: 600;
+}
+
+.poljeKarticeZakazaniTermini
+{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width:80%;
+    height:fit-content;
+    margin:auto;
+    margin-top:50px;
+
+}

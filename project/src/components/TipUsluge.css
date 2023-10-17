@@ -1,0 +1,182 @@
+.glavniDivTipUsluge{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    margin-bottom: 5%;
+    height:fit-content;
+    width:100%;
+}
+
+.slike{
+    height: 450px;
+    width: 810px;
+    min-width: 810px;
+    border-radius: 20px;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+
+.divTip{
+    display: flex;
+    flex-direction: column;
+    margin-right: 15%;
+}
+
+.naslovTipa{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.p1{
+    line-height: 1.8;
+    font-size: large;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.razdvoji1
+{
+    display: block;
+    line-height: 500%;
+}
+
+.opis
+{
+    min-height: 450px;
+    width: 700px;
+    background-color: #ac6767;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color:#fff;
+    border-radius: 20px;
+    padding: 14px 28px;
+    font-size:medium;
+    opacity:0.75;
+    margin-top:-30%;
+    margin-left: 65%;
+    margin-right: 20%;
+    z-index: 1;
+
+}
+
+.usluge
+{
+    
+    min-height: 80px;
+    background-color: #ac6767;
+    display: inline-block;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: #fff;
+    border-radius: 10px;
+    padding: 14px 28px;
+    margin-bottom:25px;
+    margin-left: 20%;
+    margin-right: 15%;
+}
+
+.divListaUsluga
+{
+   display:flex;
+   flex-direction: column;
+   width:50%;
+}
+
+.listaUsluga
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 10%;
+
+}
+
+@media screen and (max-width:1200px)
+{
+    .slike{
+        min-width: 100%;
+        width: 100%;
+        margin-right: 0%;
+        margin-left: 0%;
+        padding: 0px 0px;
+    }
+    .divTip{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-left: 5%;
+        margin-right: 5%;
+
+    }
+    .opis
+    {
+        min-height: 400px;
+        width: 100%;
+        /*position:absolute;*/
+        background-color: #ac6767;
+        color:#fff;
+        border-radius: 10px;
+       /* font-size:medium;
+        opacity:0.8;
+        margin : 0 0 0 0;
+        /*margin-top: -250px;*/
+        /*mar/*gin-left: 200px;*/
+        /*margin-right: 0px;*/
+        z-index: 1;
+        margin-top: 20px;
+        margin-left:0%;
+        margin-right:0%;
+        align-self: center;
+
+    }
+    .usluge
+    {
+        margin-left: 1px;   
+    }
+    .listaUsluga{
+        margin-top: 50px;
+    }
+}
+
+
+
+.naziv{
+    font-size:larger;
+    display: inline-block;
+    margin-top: 15px;
+    font-size: larger;
+}
+.cena
+{
+    display: inline-block;
+    float: right;
+    position: relative;
+    margin-top: 15px;
+    font-size: larger;
+}
+.ZakaziDugme{
+    float: right;
+    display: inline-block;
+    border-radius: 4px;
+    margin-top: -60px;
+    width: 80px;
+    height: 40px;
+    position: relative;
+    color: #fff;
+    background-color: #ca8585;
+    border: 0cm;
+    font-size: large;
+
+}
+.ZakaziDugme:hover{
+    width: 90px;
+    height: 40px;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+
+}

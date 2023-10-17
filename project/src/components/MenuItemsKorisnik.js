@@ -1,0 +1,37 @@
+export const MenuItemsKorisnik=[
+    {
+        title:'NASLOVNA',
+        url:'Pocetna',
+        cName:'nav-links'
+    },
+    {
+        title:'USLUGE',
+        url:'Usluge',
+        cName:'nav-links'
+    },
+    {
+        title:'ZAPOSLENI',
+        url:'Zaposleni',
+        cName:'nav-links'
+    },
+    {
+        title:'KONTAKT',
+        url:'Kontakt',
+        cName:'nav-links'
+    },
+    {
+        title:'ZAKAŽI',
+        url:'korisnikZakazivanje',
+        cName:'nav-links'
+    },
+    {
+        title:'TERMINI',
+        url:'KorisnikTermini',
+        cName:'nav-links'
+    },
+    {
+        title:'RECENZIJE',
+        url:'KorisnikRecenzije',
+        cName:'nav-links'
+    }
+]

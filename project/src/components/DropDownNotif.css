@@ -1,0 +1,26 @@
+.dropdown-menuN {
+ 
+    height:fit-content;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    position: absolute;
+    color:black;
+    top: 90%; 
+    right: 4%;
+    z-index: 1; 
+  }
+  
+  .menu-item {
+    border-top: 1px solid rgb(201, 197, 197);
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+
+  }
+  
+  .menu-item:hover {
+    background-color: #f0f0f0;
+  }
+
+ 

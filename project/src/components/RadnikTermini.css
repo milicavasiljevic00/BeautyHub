@@ -1,0 +1,106 @@
+.radnikTermini_zaglavlje{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    min-width: 60%;
+    width:62%;
+    border: none;
+    margin: auto;
+    align-items: flex-start;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #dfcbcb;
+}
+
+.radnikTerminiNaslov{
+    display:flex;
+    margin:0;
+    text-align: left;
+    font-weight: 600;
+    align-self: flex-start;
+    font-family:'Times New Roman', Times, serif;
+    font-size:xxx-large;
+    color:#8f4a4a;
+    padding-bottom: 30px;
+}
+
+.deo-pretrage-radnikTermini
+{
+    display:flex;
+    flex-direction:row;
+    min-width: 30%;
+    margin-right: auto; 
+    margin-top:20px;
+}
+
+.radnik_termini_cont{
+    display: flex;
+    flex-direction: column;
+    width:65%;
+    margin:auto;
+    margin-top:20px;
+}
+
+.radnik_termini_zaglavlje{
+    display: flex;
+    min-width: 80%;max-width: 80%;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 25px;
+    border-radius: 5px;
+    background-color: #F9E5C7;
+    align-self: center;
+}
+.mojiTerminiNaslov{
+    min-width:35%;
+    height: 60px;
+    color: #ac6767 ;
+    font-weight: 50;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 6px;
+    
+}
+.divOdaberiDatum{
+    max-width: 25%;
+    min-width: 25%;
+    min-height: 75px;
+    background:linear-gradient(90deg,#d37575 0%, #8f4a4a 200%);
+    color:#fff;
+    align-self: center;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+ }
+
+ .labelaOdaberiDatum{
+    margin-right: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    flex-shrink: 1;
+    color:#8f4a4a;
+    font-weight: 600;
+}
+
+.datePickerRadnik{
+    margin-top:3px;
+    text-align: center;
+    font-size: large;
+    height: 35px;
+    border-radius: 5px;
+    outline: none;
+    width:200px;
+    font-size: large;
+    border: 1px solid #dac1c1;
+    color:#aa7a7a;
+}

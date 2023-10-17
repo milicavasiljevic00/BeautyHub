@@ -1,0 +1,279 @@
+.NavbarItems{
+    background:linear-gradient(90deg,#b89384 0%, rgba(124, 38, 4, 0.5) 100%), rgba(0,0,0,0);
+    height: 80px;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top:0;
+    z-index: 2;
+    
+}
+
+.BaseNavbarItems
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
+.navbar-logo
+{
+    color: #fff;
+    justify-self: start;
+    cursor: pointer;
+    z-index: 0;
+    width:120px;
+    height:70px;
+    padding-left: 10px;
+    padding: 10px;
+    margin-left: 3%;
+
+}
+
+.fa-react{
+    margin-left: 0.5rem;
+    font-size: 1.6rem;
+}
+
+.nav-menu
+{
+    display:grid;
+    grid-template-columns: repeat(7,auto);
+    margin-top: 10px;
+    grid-gap:10px;
+    list-style:none;
+    text-align: center;
+    width: 70vw;
+    justify-content: start;
+}
+.nav-links
+{
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.nav-links:hover{
+    background-color: #81685F;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+}
+
+.fa-bars{
+    color:#fff;
+}
+
+.nav-links-mobile{
+    display:none;
+}
+
+.menu-icon{
+    display:none;
+}
+.mojProfil
+{
+    color: white;
+    text-decoration: none;
+    padding: 8px 20px;
+    display:grid;
+    grid-template-columns: repeat(5,auto);
+    
+    list-style:none;
+    text-align: center;
+    width: 10vw;
+    justify-content: start;
+    
+}
+.mojProfil:hover{
+    background-color: #D0C8CD;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+}
+.odjaviSe
+{
+    padding: 8px 20px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    background-color: #e0b191;
+    font-size: 18px;
+    color: #fff;
+    min-width:10vw;
+    margin-right: 10px;
+}
+.odjaviSe:hover{
+    padding: 8px 20px;
+    transition: all 0.3s ease-out;
+    background: #D0C8CD;
+    color: #363031;
+    transition: 250ms;
+}
+
+.ulogovan
+{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    padding: 10px 40px 10px 40px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #8f4a4a;
+    font-size: 22px;
+    color: #fff;
+    min-width:100px;
+    width: fit-content;
+    height: fit-content;
+    max-width: 100%;
+
+}
+
+.ulogovan:hover{
+    transition: all 0.3s ease-out;
+    background: white;
+    color: #363031;
+    transition: 250ms;
+}
+
+.ulogovanIme
+{
+    font-weight: 100;
+    margin-right: 10%;
+}
+
+
+
+.padajuciMeni
+{
+    display:flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: white;
+    font-size: 15px;
+    color: black;
+    min-width:200px;
+    width:fit-content;
+    margin-right: 2%;
+}
+
+@media screen and (max-width: 1160px){
+    .NavbarItems{
+        position: relative;
+        position: sticky;
+        justify-content: center;
+        top:0;
+        z-index: 2;
+    }
+    .nav-menu{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: fit-content;
+        position: absolute;
+        top:80px;
+        left: -100%;
+        opacity: 1;
+        transition: all 0.5s ease;
+    }
+    .nav-menu.active{
+        margin:0px 0px 0px 0px;
+        background: #d4ac88;
+        left: 0;
+        opacity: 1;
+        transition: all 0.5s ease;
+        z-index: 2;
+    }
+    .nav-links{
+        text-align: center;
+        padding: 2rem;
+        width: 100%;
+        display: table;
+    }
+    .nav-links:hover{
+        background-color: #dabda4;
+        border-radius: 0;
+    }
+    .navbar-logo{
+        position: absolute;
+        top: 0;
+        left: 0;
+        transform: translate(25%, 50%);
+        display: none;
+    }
+    .menu-icon{
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: translate(-100%, 60%);
+        font-size: 1.8rem;
+        cursor: pointer;
+    }
+    .fa-times{
+        color: #fff;
+        font-size: 2rem;
+    }
+    
+
+}
+
+.NavbarPrijavaBtns
+{
+    display: flex;
+    flex-direction: row;
+    opacity:1;
+}
+
+.NavbarItemsNotifIIme
+{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width:12%;
+    justify-content: space-evenly;
+    margin-right:1%;
+
+}
+
+.NavbarItemsIme
+{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width:8%;
+
+}
+.notifBtn
+{
+    margin-right: 30px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    text-align: center;
+}

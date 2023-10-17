@@ -1,0 +1,75 @@
+.inputPoljaPogodnijiTermin{
+    width:40%;
+    height: auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    background-color: #e0b191;
+    border-radius: 20px;
+    padding: 20px;
+    align-self: center;
+    box-shadow: 2px 2px 10px rgb(197, 195, 195);
+}
+
+.dodajPogodnijiTermin{
+    width: 30%;
+    min-height: 50px;
+    align-self: center;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: #8f4a4a;
+    color: #fff;
+    font-size: large;
+    margin-bottom: 30px;
+    padding:5px;
+}
+.dodajPogodnijiTermin:hover{
+    background-color:#b47676;
+    transition: 250ms;
+    transition: all 0.3s ease-out;
+
+}
+
+.forma_pogodniji_termin_omotac{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.labelaVreme{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-size: x-large;
+    color:#6e3838;
+    font-weight: 100;
+}
+.labelaRadnikk{
+    font-size:x-large;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    color:#6e3838;
+    font-weight: 200;
+}
+.inputTekstRadnikk{
+    max-width: 90%;
+    height: 40px;
+    font-size: large;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    border:none;
+}
+.inputTekstTipUsluge{
+    max-width: 90%;
+    height: 40px;
+    font-size: large;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    border:none;
+}

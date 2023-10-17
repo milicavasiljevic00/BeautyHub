@@ -1,0 +1,32 @@
+export const MenuItemsAdmin=[
+    {
+        title:'NASLOVNA',
+        url:'Pocetna',
+        cName:'nav-links'
+    },
+    {
+        title:'USLUGE',
+        url:'Usluge',
+        cName:'nav-links'
+    },
+    {
+        title:'ZAPOSLENI',
+        url:'Zaposleni',
+        cName:'nav-links'
+    },
+    {
+        title:'KONTAKT',
+        url:'Kontakt',
+        cName:'nav-links'
+    },
+    {
+        title:'UPRAVLJAJ USLUGAMA',
+        url:'AdminUsluge',
+        cName:'nav-links'
+    },
+    {
+        title:'RECENZIJE',
+        url:'AdminRecenzije',
+        cName:'nav-links'
+    }
+]

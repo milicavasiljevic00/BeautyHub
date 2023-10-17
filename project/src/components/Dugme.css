@@ -1,0 +1,9 @@
+.detalji{
+    width: 75px;
+    height: 30px;
+    border-radius: 5px;
+}
+.detalji:hover{
+    background-color: #DAA07A;
+}
+

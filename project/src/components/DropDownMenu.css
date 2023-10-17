@@ -1,0 +1,30 @@
+.dropdown-menu {
+    max-width: 250px;
+    max-height: 200px;
+    min-width: 150px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    position: absolute;
+    color:black;
+    top: 80%; 
+    right: 2%;
+    z-index: 1; 
+  }
+  
+  .menu-item {
+    border-top: 1px solid rgb(201, 197, 197);
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+
+  }
+  
+  .menu-item:hover {
+    background-color: #f0f0f0;
+  }
+
+  .covek
+  {
+    margin-right: 5%;
+  }
+  

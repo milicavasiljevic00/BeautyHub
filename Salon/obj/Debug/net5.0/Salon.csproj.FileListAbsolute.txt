@@ -1,0 +1,250 @@
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\appsettings.json
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.exe
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.deps.json
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.runtimeconfig.json
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.runtimeconfig.dev.json
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\ref\Salon.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.pdb
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.AssemblyReference.cache
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.AssemblyInfoInputs.cache
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.AssemblyInfo.cs
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.CoreCompileInputs.cache
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\ref\Salon.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.pdb
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\staticwebassets\Salon.StaticWebAssets.Manifest.cache
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\staticwebassets\Salon.StaticWebAssets.xml
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\scopedcss\bundle\Salon.styles.css
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.RazorTargetAssemblyInfo.cache
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.CopyComplete
+C:\Users\User01\Desktop\faks3\drugi semestar\softversko\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.genruntimeconfig.cache
+<<<<<<< HEAD
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\appsettings.Development.json
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\appsettings.json
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.exe
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.deps.json
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.runtimeconfig.json
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.runtimeconfig.dev.json
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\ref\Salon.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.pdb
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Humanizer.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.AssemblyReference.cache
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.GeneratedMSBuildEditorConfig.editorconfig
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.AssemblyInfoInputs.cache
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.AssemblyInfo.cs
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.CoreCompileInputs.cache
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.MvcApplicationPartsAssemblyInfo.cs
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.MvcApplicationPartsAssemblyInfo.cache
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\staticwebassets\Salon.StaticWebAssets.Manifest.cache
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\staticwebassets\Salon.StaticWebAssets.xml
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\scopedcss\bundle\Salon.styles.css
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.RazorTargetAssemblyInfo.cache
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.CopyComplete
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\ref\Salon.dll
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.pdb
+D:\MARKO\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.genruntimeconfig.cache
+=======
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\appsettings.Development.json
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\appsettings.json
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.exe
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.deps.json
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.runtimeconfig.json
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.runtimeconfig.dev.json
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\ref\Salon.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.pdb
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Humanizer.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.AssemblyReference.cache
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.GeneratedMSBuildEditorConfig.editorconfig
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.AssemblyInfoInputs.cache
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.AssemblyInfo.cs
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.CoreCompileInputs.cache
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.MvcApplicationPartsAssemblyInfo.cs
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.MvcApplicationPartsAssemblyInfo.cache
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\staticwebassets\Salon.StaticWebAssets.Manifest.cache
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\staticwebassets\Salon.StaticWebAssets.xml
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\scopedcss\bundle\Salon.styles.css
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.RazorTargetAssemblyInfo.cache
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.CopyComplete
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\ref\Salon.dll
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.pdb
+D:\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.genruntimeconfig.cache
+>>>>>>> 7c1235fd415a99b9717dea49f935fc71419846a6
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\appsettings.json
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.StaticWebAssets.xml
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.exe
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.deps.json
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.runtimeconfig.json
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.runtimeconfig.dev.json
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Salon.pdb
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Owin.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.AssemblyReference.cache
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.AssemblyInfoInputs.cache
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.AssemblyInfo.cs
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.CoreCompileInputs.cache
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\scopedcss\bundle\Salon.styles.css
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\staticwebassets\Salon.StaticWebAssets.Manifest.cache
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.RazorTargetAssemblyInfo.cache
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.csproj.CopyComplete
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\refint\Salon.dll
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.pdb
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\Salon.genruntimeconfig.cache
+C:\Users\Vasiljevic\Desktop\BeautyHub\si.22.45.beautyhub\Aplikacija\Salon\obj\Debug\net5.0\ref\Salon.dll

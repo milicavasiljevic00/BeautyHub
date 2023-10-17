@@ -1,0 +1,122 @@
+.kont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.divStatistikaa{
+    width:30%;
+    
+}
+.kontDivStatistika
+{
+    display:flex;
+    flex-direction: row;
+    width:62%;
+    margin:auto;
+    margin-top: 60px;
+    justify-content: space-between;
+}
+.stats{
+   width:40%;
+
+}
+
+.formaStatistikaa{
+    border: none;
+    background-color:#F2DECF;
+    width: 37%;
+    height:570px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-right: 1.5%;
+    box-shadow: 3px 3px 5px rgb(184, 181, 181);
+    border-radius: 5px;
+
+}
+
+.unutrasnja{
+ 
+    height: 85%;
+    width: 90%;
+    align-self: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.menadzer_statistika_gore{
+    display: flex;
+    justify-content: center;
+}
+.opcija{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top : 30px;
+    margin-bottom: 30px;
+    width: 90%;
+    min-height: 90px;
+    justify-content:space-evenly;
+    background: #F9E5C7;
+
+    }
+.Polje{
+    height: 50%;
+    width: 200px;
+    font-size: medium;
+}
+
+.menadzer_statistika_polje{
+    border: none;
+    outline: none;
+    width: 50%;
+    min-height: 50px;
+    align-self: center;
+    font-size: 20px;
+    display: flex;
+    flex-shrink: 1;
+
+}
+.menadzer_statistika_usluga{
+    display: flex;
+    font-size: 20px;
+    align-self: center;
+    
+}
+.FormUsluga, .Godina, .Mesec{
+
+    height: 100%;
+    width: 80%;
+    border-radius: 5px;
+    align-self: center;
+    font-size: 20px;
+    margin-top: 5px;
+    color:#8f4a4a;
+    border:none;
+
+}
+.grupa{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.prihod{
+    width: 310px;
+    align-self: center;
+    border-radius: 5px;
+    height: 10%;
+    background-color:#8f4a4a;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

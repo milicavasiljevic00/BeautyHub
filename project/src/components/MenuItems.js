@@ -1,0 +1,32 @@
+export const MenuItems=[
+    {
+        title:'NASLOVNA',
+        url:'Pocetna',
+        cName:'nav-links'
+    },
+    {
+        title:'USLUGE',
+        url:'Usluge',
+        cName:'nav-links'
+    },
+    {
+        title:'ZAPOSLENI',
+        url:'Zaposleni',
+        cName:'nav-links'
+    },
+    {
+        title:'KONTAKT',
+        url:'Kontakt',
+        cName:'nav-links'
+    },
+    {
+        title:'Prijava',
+        url:'#',
+        cName:'nav-links-mobile'
+    },
+    {
+        title:'Registracija',
+        url:'#',
+        cName:'nav-links-mobile'
+    }
+]

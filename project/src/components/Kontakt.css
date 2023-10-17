@@ -1,0 +1,111 @@
+
+.Mail {
+    min-width: 37%;
+    background-color: #8f4a4a;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    padding: 40px;
+    margin-top: 3%;
+  }
+
+  .Kontakt
+  {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      background-color: #fff;
+      min-height: 700px;
+      margin-bottom: 4%;
+
+  }
+  .inf{
+      color: #fff;
+      margin-top:30px;
+      font-size: larger;
+
+  }
+  .mail{
+      margin-left:10px;
+  }
+
+ .Informacije
+  { 
+    min-width: 37%;
+    background-color: #8f4a4a;
+    color: #fff;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    margin-top: 3%;
+    padding: 40px;
+  }
+
+  .hKon
+  {
+    font-size: xxx-large;
+    font-family:'Times New Roman', Times, serif
+  }
+
+  .pOdg
+  {
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif
+  }
+
+  .mapa
+  {
+    margin-top:5%;
+
+  }
+
+  .MailLbl{
+    color:white;
+    font-size: x-large;
+    padding-top:10px;
+    padding-bottom:20px;
+
+  }
+
+  .form-control {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical;
+  }
+
+  .email{
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical;
+
+  }
+
+  .submitButton{
+    background-color:#e0b191;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    box-shadow: 1px 1px 5px #926958;
+    padding: 12px 26px;
+    border-radius: 4px;
+    font-size: 18px;
+    color: #fff;
+    float: right;
+
+  }

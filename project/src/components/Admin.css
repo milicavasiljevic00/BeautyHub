@@ -1,0 +1,177 @@
+.admin{
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;  
+    margin:auto;
+    width:70%;
+    
+}
+
+.admin-content{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    border: none;
+    align-self: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    border-radius: 30px;
+    padding:20px;
+}
+
+.slika_admin{
+    color: rgb(223, 197, 197);
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.admin_podaci{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    min-width: 40%;
+    border:1px solid black;
+    border-radius: 10px;
+    background-color: #a36c6c ;
+    border: none;
+    color: #fff;
+    box-shadow: 3px 3px 7px #aca8a7;
+    
+}
+
+.admin_levo{
+    min-height: 50%;
+    min-width: 45%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.admin_desno{
+    min-height: 50%;
+    min-width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.admin_licni_podaci{
+    display: flex;
+    align-self: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: larger;
+}
+
+.admin_licni_podaci1{
+    display: flex;
+    align-self: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xxx-large;
+}
+.div-kartica-admin{
+    height: 50%;
+    min-width: 97%;
+    background: linear-gradient(90deg, #f8ceb4 0%, #e59999 200%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 2px 2px 5px #584343;
+    border-radius: 10px;
+    padding: 14px 28px;
+    font-size:medium;
+    margin-top: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.div-kartica-admin:hover{
+    height: 50%;
+    min-width: 100%;
+    transition: all 0.3s ease-out;
+    color : white ;
+}
+
+.admin-Info-desno
+{
+    height:500px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    width:100%;
+    padding-top:50px;
+    padding-bottom:50px;
+    box-shadow: 3px 3px 7px #cac7c7;
+}
+
+.admin_info_red
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-self: center;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    
+}
+
+.admin_info_labelaForma
+{
+    width:33%;
+    height:30px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    font-size: larger;
+    justify-content: center;
+    font-weight: 500;
+}
+
+.admin_info_inputTekst
+{
+    min-width: 45%;
+    height: 35px;
+    display: flex;
+    align-self: center;
+    border: 1px solid rgb(172, 169, 169);
+    outline: none;
+    border-radius: 5px;
+    font-size: large;
+}
+
+.admin_info_potvrdiBtn
+{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    min-width:10%;
+    max-width: 20%;
+    font-size: larger;
+    padding: 10px;
+    width: calc(100% - 10px);
+    border-radius: 10px;
+    background-color: #8f4a4a;
+    color:white;
+    border:none;
+    box-shadow: 2px 2px 10px rgb(197, 195, 195);
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right:7%;
+
+}
+.admin_info_potvrdiBtn:hover
+{
+    cursor:pointer;
+    
+}

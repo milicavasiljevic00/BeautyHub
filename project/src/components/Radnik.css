@@ -1,0 +1,368 @@
+.korisnik{
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    justify-content: space-between;
+    
+}
+.content{
+
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    flex-wrap: wrap;
+    height: auto;
+    border: none;
+    align-self: center;
+    justify-content: space-around;
+    margin-top: 40px;
+    background-color: #F2DECF;
+    border-radius: 30px;
+}
+.podaci{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+.radnik_podaci_kartica{
+    display: flex;
+    align-self: center;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.kalendarce{
+    color:#7c4949 ;
+}
+.radnik_podaci{
+    margin-top: 15px;
+    min-width: 40%;
+    min-height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border: none;
+    border-radius: 20px;
+    background-color: #be7e7e;
+    color:#fff;
+    align-self: center;
+    align-content: center;
+    font-size: 20px;  
+    padding-top: 5px ;
+    padding-bottom: 5px;
+    
+}
+.radnik_promeni_sifru, .radnik_izmeni_info{
+     width: 45%;
+    min-height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(90deg, #ebb999 0%, #e08c8c 200%);
+    color: #fff;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+}
+.radnik_promeni_sifru:hover, .radnik_izmeni_info:hover{
+    background-color:#DAA07A;
+    width:47%;
+    color: #fff;
+    transition: all 0.3s ease-out;
+    cursor:pointer;
+}
+.radnik_slika{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.dugme-izmeni{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: medium;
+    margin-left: 10px;
+}
+.dugme-izmeni:hover{
+    color: white;
+    background-color:#8f4a4a ;
+}
+.tamno-sivo{
+    color: rgb(238, 207, 207);
+}
+.svetlo-sivo{
+    color: rgb(47, 45, 45);
+}
+.podaci-kartica{
+    align-self: center;
+}
+.podaci-desno{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    align-self: center;
+}
+.slika{
+    align-self: center;
+}
+.kartice/*-korisnik*/{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+.div-kartica/*-korisnik*/{
+    height: 250px;
+    width: 400px;
+    background-color: #8f4a4a;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    border-radius: 10px;
+    padding: 14px 28px;
+    font-size:medium;
+    margin-top: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.div-kartica/*-korisnik*/:hover{
+    height: 275px;
+    width: 430px;
+    transition: all 0.3s ease-out;
+    color : white ;
+}
+.div_kartica_radnik{
+
+    margin-top: 15px;
+    min-height: 65%;
+    min-width: 40%;
+    background: linear-gradient(90deg, #f8ceb4 0%, #e59999 200%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 2px 2px 5px #584343;
+    border-radius: 10px;
+    padding: 14px 28px;
+    font-size:medium;
+    
+    
+}
+.div_kartica_radnik:hover{
+    min-width: 45%;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+}
+/*.divOdaberiDatum{
+   margin:0 auto;
+   margin-top: 20px;
+   width:200px;
+   text-align: center;
+   background:linear-gradient(90deg, #d49063 0%, #bd5a5a 200%);
+   padding:10px;
+   color:#fff;
+   border-radius: 10px;
+
+}*/
+/*.datePicker1{
+    margin:0 auto;
+}*/
+/*.labelaOdaberiDatum{
+    margin:0 auto;
+}*/
+/*.divDatumRadnik{
+    background-color: #8f4a4a;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-right: 80px;
+    border-radius: 10px;
+    height: auto;
+    
+    
+}*/
+/*.karticaTerminRadnik{
+    background-color: #e9bda0;
+    height:240px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display:inline-block;
+    color:#000000;
+    font-weight:lighter;
+    border-radius: 10px;
+    text-align: center;
+}
+.karticaTerminRadnik:hover{
+    height:240px;
+    width: 215px;
+    transition: all 0.3s ease-out;
+    background: rgb(250, 204, 157);
+    cursor: pointer;
+
+
+}*/
+/*.ikonicaX{
+   
+    margin-top: 10px;
+    color: rgb(190, 42, 42);
+
+}*/
+.listica{
+
+        padding: 0;
+      
+}
+/*.klijentImePrezime{
+    margin-top: 10px;
+}*/
+/*.btnOdradjen{
+    width: 80px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: medium;
+    border: none;
+    background:linear-gradient(90deg, #d49063 0%, #bd5a5a 200%);
+    color:#fff;
+    font-size: small;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.btnOdradjen:hover{
+    width: 85px;
+    color:#8f4a4a;
+    background: #fff;
+    transition: all 0.3s ease-out;
+    cursor:pointer;
+}
+
+.btnOtkazi{
+    width: 80px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: medium;
+    border: none;
+    background:linear-gradient(90deg, #d49063 0%, #bd5a5a 200%);
+    color:#fff;
+    font-size: small;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.btnOtkazi:hover{
+    width: 85px;
+    color:#8f4a4a;
+    background: #fff;
+    transition: all 0.3s ease-out;
+    cursor:pointer;
+}*/
+
+
+
+
+.dugmiciRadnik{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+.izmeni_radnika_modal, .izmeni_radnika_overlay1{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 3;
+}
+.izmeni_radnika_overlay1{
+    background: rgba(49,49,49,0.8);
+}
+.izmeni_radnika_modal_content{
+   
+    width: 35%;
+    height: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 10px;
+    position: absolute;
+    font-size:medium;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    line-height: 1.4;
+    background: #ac6767 ;
+    padding: 28px 28px 28px 28px;
+    max-width: 400px;
+    z-index: 4;
+    font-size: large;
+}
+
+
+.izmeni_sifru_radnika_modal, .izmeni_sifru_radnika_overlay1{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 3;
+}
+.izmeni_sifru_radnika_overlay1{
+    background: rgba(49,49,49,0.8);
+}
+.radnik_ikona{
+    color: #eebd9e;
+}
+.izmeni_sifru_radnika_modal_content{
+   
+    width: 35%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 10px;
+    position: absolute;
+    font-size:medium;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    line-height: 1.4;
+    background: #ac6767 ;
+    padding: 28px 28px 28px 28px;
+    max-width: 400px;
+    z-index: 4;
+    font-size: large;
+}
+
+.btnIzmeniRadnika
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width:40%;
+    font-size: 18px;
+    min-height:40px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    
+    
+}
+.btnIzmeniRadnika:hover{
+    background-color: #F9E5C7 ;
+    color: #ac6767 ;
+    cursor: pointer;
+}

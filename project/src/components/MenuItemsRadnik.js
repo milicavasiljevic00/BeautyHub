@@ -1,0 +1,27 @@
+export const MenuItemsRadnik=[
+    {
+        title:'NASLOVNA',
+        url:'Pocetna',
+        cName:'nav-links'
+    },
+    {
+        title:'USLUGE',
+        url:'Usluge',
+        cName:'nav-links'
+    },
+    {
+        title:'ZAPOSLENI',
+        url:'Zaposleni',
+        cName:'nav-links'
+    },
+    {
+        title:'KONTAKT',
+        url:'Kontakt',
+        cName:'nav-links'
+    },
+    {
+        title:'TERMINI',
+        url:'RadnikTermini',
+        cName:'nav-links'
+    }
+]

@@ -1,0 +1,156 @@
+.divVeliki
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width:72%;
+    margin:auto;
+    margin-bottom:70px;
+}
+
+.divZaSliku{
+
+    display: flex;
+    width: 45%;
+    min-width: 250px;
+    flex-shrink: 1;
+}
+
+.nekaSlika
+{
+    border-radius: 10px;
+    flex-shrink: 1;
+    min-width: 35%;
+}
+
+.divDesni
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 45%;
+    min-width: 250px;
+    margin-top: 50px;
+    flex-shrink: 1;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-top: 60px;
+    padding-right: 5%;
+    
+}
+
+.dodavanje_radnika, .brisanje_radnika, .izmena_radnika{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.obicno{
+    width : 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #F2DECF ;
+    align-self: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 5px 10px #ac6767;
+   
+}
+
+.prosireno{
+    height: auto;
+    width : 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #F2DECF ;
+    align-self: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 5px 7px #c9c4c4;
+    
+}
+
+
+.prosirenoB{
+    height: auto;
+    width : 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #F2DECF ;
+    align-self: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 5px 7px #c9c4c4;
+    
+}
+
+.inputDodajRadnika{
+    width: 80%;
+    height: 30px;
+    align-self: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+
+}
+
+.divDodajRadnika , .divObrisiRadnika, .divIzmeniRadnika
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.naslovRadnikMenadzer
+{
+    
+}
+.inputDodajRadnika, .btnDodajRadnika
+{
+    
+}
+.btnDodajRadnika
+{
+    height: 30px;
+    width: 40%;
+    align-self: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    outline : none;
+    background-color: #ac6767 ;
+    color : #fff;
+    font-size: larger;
+}
+.btnDodajRadnika:hover{
+    cursor: pointer;
+}
+
+.lblDodavanjeRadnika
+{
+    color:#8f4a4a;
+    font-size: x-large;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.lblBrisanjeRadnika
+{
+    color:#8f4a4a;
+    font-size: x-large;
+    margin-top:10px;
+    margin-bottom:10px;
+}
